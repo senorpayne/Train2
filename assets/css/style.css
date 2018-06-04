@@ -1,0 +1,18 @@
+.jumbotron , h4, #submit {
+      
+      text-align: center;
+      font-family: Carrois Gothic SC;
+      background-color: lightgreen;
+  }
+
+  #train-name, #destination, #firsttime, #frequency {
+
+
+  	font-size: 40px;
+  }
+
+  #label, #fi, #ti, #ki {
+
+  	font-size: 20px;
+  	color: black;
+  }
